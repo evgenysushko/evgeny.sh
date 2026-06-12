@@ -14,8 +14,12 @@ website:
 
 format:
   html:
+    respect-user-color-scheme: true
     theme:
-      light: cosmo
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
     css: styles.css
 
 
