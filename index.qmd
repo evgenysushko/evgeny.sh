@@ -1,0 +1,6 @@
+---
+title: "evgeny.sh"
+---
+This is a website
+
+It's a simple placeholder for now.
