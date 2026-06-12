@@ -3,6 +3,7 @@ project:
 
 website:
   title: "evgeny.sh"
+  site-url: "https://evgeny.sh"
   navbar:
     title: false
     left:
